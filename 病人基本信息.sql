@@ -1,0 +1,1 @@
+SELECT * FROM myhis.病人基本信息表;
